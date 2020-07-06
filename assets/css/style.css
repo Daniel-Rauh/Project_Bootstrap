@@ -1,0 +1,53 @@
+html{
+    scroll-behavior: smooth;
+}
+.dark-text{
+    color: #414343;
+}
+.light-text{
+    color: #EDA924;
+}
+.white-text{
+    color: #fff;
+}
+.dark-bg{
+    background: #414343;
+}
+.light-bg{
+    background: #EDA924;
+}
+.white-bg{
+    background: #fff;
+}
+.logo{
+    width: 35px;
+}
+#hero{
+    height: 100vh;
+    background: url(../img/hero-img.png) center/cover no-repeat;
+}
+#scroll{
+    height: 20vh;
+}
+#scroll a:hover{
+    text-decoration: none;
+}
+#what img{
+    height: 80vh;
+}
+#why img{
+    max-height: 305px;
+}
+.card{
+    border: none;
+}
+#cartoon{
+    height: 70vh;
+    background: url(../img/funny-cartoon.png) center/contain no-repeat;
+}
+.company{
+    width: 150px;
+}
+footer{
+    height: 61px;
+}
